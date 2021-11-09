@@ -28,4 +28,4 @@ const result = addId<UserInterface2<{meta: string}, string>>(userGeneric); //cal
 //const result2 = addId<string>("foo") //throws error due to extends object
 
 
-console.log("result", result);
+console.log("result", result); 
